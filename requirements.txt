@@ -1,0 +1,37 @@
+# Core
+torch
+torchvision
+pillow
+numpy
+tqdm
+einops
+pyyaml
+setuptools
+wheel
+
+# Image processing
+opencv-python
+albumentations
+scikit-image
+
+# Training utilities
+tensorboard
+pytorch-lightning==1.0.8
+
+# LPIPS (Perceptual Loss)
+lpips
+
+# Tokenizers & Transformers
+ftfy
+regex
+
+# Plotting & notebook
+matplotlib
+jupyter
+
+# Additional dependencies used by taming-transformers
+omegaconf
+taming-transformers-rom1504
+
+# Optional: if using huggingface datasets
+datasets
